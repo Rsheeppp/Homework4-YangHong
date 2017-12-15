@@ -1,0 +1,4 @@
+controller\CurrencyConvert.class
+view\ConvertManager.class
+model\convertDTO.class
+integration\ConvertDAO.class
